@@ -1,0 +1,3 @@
+{
+    "cmake.sourceDirectory": "/workspaces/digital-signal-processing/pybind11/tests/test_cross_module_rtti"
+}
